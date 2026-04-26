@@ -1,4 +1,3 @@
-```md
 <h1 align="center">Hi 👋, I'm Ritesh Todmal</h1>
 <h3 align="center">Java Full Stack Developer | GenC Intern @ Cognizant | Spring Boot Enthusiast</h3>
 
