@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6a11cb&height=220&section=header&text=Ritesh%20Todmal&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Java%20Full%20Stack%20Developer%20%7C%20GenC%20Intern%20@%20Cognizant&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=260&section=header&text=Ritesh%20Todmal&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Java%20Full%20Stack%20Developer%20%7C%20GenC%20Intern%20@%20Cognizant&descAlignY=55&descSize=20" width="100%"/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3px">
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=0E75B6&center=true&vCenter=true&width=600&lines=Java+Full+Stack+Developer+%F0%9F%92%BB;Spring+Boot+Enthusiast+%E2%9A%99%EF%B8%8F;AI%2FML+Explorer+%F0%9F%A4%96;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
@@ -41,40 +43,39 @@ fun_fact: "I debug faster with chai ☕ in hand"
 
 ---
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3px">
+
 ## 🛠️ Tech Stack
 
+<div align="center">
+
 ### 💻 Languages
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</p>
+<img src="https://skillicons.dev/icons?i=java,mysql,c,python&theme=dark" />
 
 ### 🌐 Web Development
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
 
 ### ⚙️ Frameworks & Tools
-<p>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=spring,hibernate,git,github,postman,idea,vscode&theme=dark" />
+
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-</p>
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RiteshTodmal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RiteshTodmal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" width="49%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RiteshTodmal&theme=tokyonight&hide_border=true" width="49%" />
 </div>
 
@@ -83,10 +84,26 @@ fun_fact: "I debug faster with chai ☕ in hand"
 </div>
 
 <div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RiteshTodmal&theme=tokyonight&no-frame=true&row=1&column=7" width="95%" />
+</div>
+
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RiteshTodmal&theme=tokyo-night&hide_border=true" width="95%" />
 </div>
 
+<div align="center">
+
+### 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/RiteshTodmal/RiteshTodmal/output/github-contribution-grid-snake.svg" width="95%" />
+
+<sub>💡 To enable the snake animation, add the <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action to this repo — it auto-generates this SVG from your contribution graph.</sub>
+
+</div>
+
 ---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3px">
 
 ## 🚀 Projects Showcase
 
@@ -166,6 +183,10 @@ IoT-based energy monitoring system with live web dashboard using Arduino, ESP826
 
 ### ⭐ Star my repos if you find them useful! It keeps me motivated to build more 🚀
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:0e75b6&height=120&section=footer" width="100%"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3px">
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="280">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,11,6&height=150&section=footer" width="100%"/>
 
 </div>
